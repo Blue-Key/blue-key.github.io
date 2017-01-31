@@ -77,7 +77,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": true
           },
           "form": {
