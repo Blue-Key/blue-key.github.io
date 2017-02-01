@@ -673,6 +673,9 @@ h6,
 .theme-border {
   border: 1px solid #c0a375;
 }
+#footer1-2 P {
+  color: #ffffff;
+}
 #menu-u .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -737,6 +740,12 @@ h6,
 #extHeader10-h P {
   color: #ffffff;
 }
+#extFeatures7-k .mbr-section-subtitle {
+  color: #ffffff;
+}
+#extFeatures7-k H5 {
+  color: #ffffff;
+}
 #extTestimonials5-10 .mbr-section-title SPAN {
   font-family: 'Titillium Web', sans-serif;
   color: #232323;
@@ -746,14 +755,5 @@ h6,
   font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 #extTestimonials5-10 .mbr-section-title I {
-  color: #2969b0;
-}
-#extFeatures12-11 .card-number {
-  color: #c0a375;
-}
-#extFeatures12-11 .mbr-iconfont-features4 {
-  color: undefined !important;
-}
-#extFeatures12-11 .wraper {
-  border-color: undefined !important;
+  color: #00a9ff;
 }
