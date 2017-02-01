@@ -886,12 +886,15 @@
                 "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/face1.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/2011-1.svg",
                     "class": "img-circle",
-                    "link": "https://mobirise.com",
+                    "link": "https://www.thumbtack.com/tx/dallas/locksmiths/24-hour-locksmith-services",
                     "height": 160,
                     "width": 160,
-                    "active": true
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": true
                   }
                 },
                 "authorName": "John Smith",
@@ -902,12 +905,15 @@
                 "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/face2.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/spotlight-160x160.png",
                     "class": "img-circle",
-                    "link": "https://mobirise.com",
+                    "link": "https://www.thumbtack.com/tx/dallas/locksmiths/24-hour-locksmith-services",
                     "height": 160,
                     "width": 160,
-                    "active": true
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": true
                   }
                 },
                 "authorName": "Abanoub S.",
@@ -918,12 +924,15 @@
                 "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/face3.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/thumbtack-icon-160x155.png",
                     "class": "img-circle",
-                    "link": "https://mobirise.com",
+                    "link": "https://www.thumbtack.com/tx/dallas/locksmiths/24-hour-locksmith-services",
                     "height": 160,
                     "width": 160,
-                    "active": true
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": true
                   }
                 },
                 "authorName": "Suffian A.",
