@@ -757,3 +757,11 @@ h6,
 #extTestimonials5-10 .mbr-section-title I {
   color: #00a9ff;
 }
+#extHeader3-14 .etl-icon {
+  color: #00a9ff !important;
+  border-color: #00a9ff;
+}
+#extHeader3-14 .features-list i {
+  color: #00a9ff !important;
+  border-color: #00a9ff;
+}
