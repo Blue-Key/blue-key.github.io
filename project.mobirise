@@ -715,9 +715,12 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/5.png",
+                    "src": "@PROJECT_PATH@/assets/images/yale-629x820.png",
                     "link": "https://mobirise.com",
-                    "active": true
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
                   }
                 }
               },
@@ -725,9 +728,12 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/3.png",
+                    "src": "@PROJECT_PATH@/assets/images/bal-598x820.png",
                     "link": "https://mobirise.com",
-                    "active": true
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
                   }
                 }
               }
