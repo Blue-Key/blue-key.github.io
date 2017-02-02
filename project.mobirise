@@ -170,7 +170,7 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/LXzWn5ht-cM?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com"
             },
             "bgVideoRadio": true,
             "overlay": true,
