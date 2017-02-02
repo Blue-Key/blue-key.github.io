@@ -171,10 +171,10 @@
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.2",
+            "overlayOpacity": "0.1",
             "overlayColor": "#000",
             "inverse": false,
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "showArrow": true
