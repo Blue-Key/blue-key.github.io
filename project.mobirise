@@ -151,7 +151,10 @@
           "_name": "extHeader10",
           "_styles": {
             "P": {
-              "color": "#ffffff"
+              "color": "#232323"
+            },
+            "H3": {
+              "color": "#232323"
             }
           },
           "_anchor": "extHeader10-h",
@@ -164,11 +167,11 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/zI_PO40d5T4?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/LXzWn5ht-cM?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.2",
+            "overlayOpacity": "0",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -204,7 +207,7 @@
               }
             }
           },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Request a Locksmith Now</a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Request a Locksmith Now</a>",
           "title": "INTRO WITH FORM",
           "text": "Full screen intro with background image and color overlay and a form on the right side. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>"

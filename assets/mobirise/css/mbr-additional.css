@@ -738,7 +738,10 @@ h6,
   color: #c0a375!important;
 }
 #extHeader10-h P {
-  color: #ffffff;
+  color: #232323;
+}
+#extHeader10-h H3 {
+  color: #232323;
 }
 #extFeatures7-k .mbr-section-subtitle {
   color: #ffffff;
