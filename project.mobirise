@@ -171,7 +171,7 @@
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0",
+            "overlayOpacity": "0.1",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -208,7 +208,7 @@
             }
           },
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Request a Locksmith Now</a>",
-          "title": "INTRO WITH FORM",
+          "title": "",
           "text": "Full screen intro with background image and color overlay and a form on the right side. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>"
         },
