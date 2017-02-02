@@ -1,8 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -739,6 +741,8 @@ h6,
 }
 #extHeader10-h P {
   color: #232323;
+  font-family: 'Roboto Slab', serif;
+  font-size: 22px;
 }
 #extHeader10-h H3 {
   color: #232323;
