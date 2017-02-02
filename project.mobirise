@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 41,
+    "uniqCompNum": 44,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -37,6 +37,11 @@
       "components": [
         {
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "footer1-2",
           "_params": {
             "paddingTop": "1",
@@ -50,12 +55,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<span style=\"font-size: 0.8125rem; line-height: 1.5;\">Copyright (c) 2016 Blue Key® Locksmith.</span><br><span style=\"font-size: 0.8125rem; line-height: 1.5;\">Addison, TX 75001<br></span><br>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "text": "<span style=\"font-size: 0.8125rem; line-height: 1.5;\">Copyright (c) 2016 Blue Key® Locksmith.</span><br><span style=\"font-size: 0.8125rem; line-height: 1.5;\">Addison, TX 75001<br></span><br>"
         },
         {
           "_styles": {
@@ -141,7 +141,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">(214) 489-2096</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -218,6 +218,14 @@
             "Extension"
           ],
           "_name": "extFeatures7",
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            },
+            "H5": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "extFeatures7-k",
           "_params": {
             "paddingTop": 2,
@@ -578,14 +586,6 @@
               "color": "#000",
               "family": "socicon"
             }
-          },
-          "_styles": {
-            ".mbr-section-subtitle": {
-              "color": "#ffffff"
-            },
-            "H5": {
-              "color": "#ffffff"
-            }
           }
         },
         {
@@ -656,6 +656,21 @@
             "Extension"
           ],
           "_name": "extTestimonials5",
+          "_styles": {
+            ".mbr-section-title SPAN": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#232323",
+              "font-size": "48px"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+            },
+            ".mbr-section-title I": {
+              "color": "#00a9ff"
+            }
+          },
           "_params": {
             "autoplay": true,
             "timeout": 5,
@@ -761,22 +776,7 @@
           },
           "_anchor": "extTestimonials5-10",
           "title": "<span style=\"font-weight: normal;\">&nbsp;</span><i style=\"font-weight: normal;\">SMART </i><span style=\"font-weight: normal;\">PRODUCTS</span>",
-          "subtitle": "Browse through our line of Bluetooth® enabled products",
-          "_styles": {
-            ".mbr-section-title SPAN": {
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
-              "color": "#232323",
-              "font-size": "48px"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Yanone Kaffeesatz', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
-            },
-            ".mbr-section-title I": {
-              "color": "#00a9ff"
-            }
-          }
+          "subtitle": "Browse through our line of Bluetooth® enabled products"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -784,6 +784,16 @@
             "Extension"
           ],
           "_name": "extHeader3",
+          "_styles": {
+            ".etl-icon": {
+              "color": "#00a9ff !important",
+              "border-color": "#00a9ff"
+            },
+            ".features-list i": {
+              "color": "#00a9ff !important",
+              "border-color": "#00a9ff"
+            }
+          },
           "_anchor": "extHeader3-14",
           "_params": {
             "iconsColor": "#00a9ff",
@@ -860,17 +870,7 @@
               "color": "#27aae0"
             }
           },
-          "title4": "Reach Top",
-          "_styles": {
-            ".etl-icon": {
-              "color": "#00a9ff !important",
-              "border-color": "#00a9ff"
-            },
-            ".features-list i": {
-              "color": "#00a9ff !important",
-              "border-color": "#00a9ff"
-            }
-          }
+          "title4": "Reach Top"
         },
         {
           "alias": "mobirise3-blocks/components",
