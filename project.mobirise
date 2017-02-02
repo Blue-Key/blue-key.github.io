@@ -178,7 +178,7 @@
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": false,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "showArrow": true
           },
