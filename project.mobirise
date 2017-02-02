@@ -212,7 +212,7 @@
           },
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Request a Locksmith Now</a>",
           "title": "",
-          "text": "At Blue Key®, our services include all that a traditional locksmith has to offer, along with the commitment to educate you about today's most advanced products and security measures.hnvnbvbnvnbvnvnvnbvbn",
+          "text": "<span style=\"font-style: normal;\">At Blue Key®, our services include all that a traditional locksmith has to offer, along with the commitment to educate you about today's most advanced products and security measures.hnvnbvbnvnbvnvnvnbvbn</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>"
         },
         {
