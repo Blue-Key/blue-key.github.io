@@ -669,7 +669,7 @@
             ".mbr-section-title SPAN": {
               "font-family": "'Titillium Web', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
-              "color": "#232323",
+              "color": "#000000",
               "font-size": "48px"
             },
             ".mbr-section-title": {
@@ -677,7 +677,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
             },
             ".mbr-section-title I": {
-              "color": "#2969b0"
+              "color": "#00a9ff"
             }
           },
           "_params": {
@@ -784,7 +784,7 @@
             "showArrows": true
           },
           "_anchor": "extTestimonials5-10",
-          "title": "<span style=\"font-weight: normal;\">&nbsp;</span><span style=\"font-weight: normal;\">SMART</span><i style=\"font-weight: normal;\"> </i><span style=\"font-weight: normal;\">PRODUCTS</span>",
+          "title": "<span style=\"font-weight: normal;\">&nbsp;</span><span style=\"font-weight: normal;\"><i>SMART</i></span><i style=\"font-weight: normal;\"> </i><span style=\"font-weight: normal;\">PRODUCTS</span>",
           "subtitle": "Browse through our line of Bluetooth® enabled products"
         },
         {
