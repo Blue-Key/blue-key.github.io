@@ -9,6 +9,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -737,6 +738,10 @@ h6,
 #menu-1a .link[aria-expanded="true"],
 #menu-1a .dropdown-item[aria-expanded="true"] {
   color: #c0a375 !important;
+}
+#extHeader10-1g P {
+  font-size: 25px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 #extHeader4-1f P {
   color: #000000;
