@@ -202,7 +202,7 @@
               }
             }
           },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GET STARTED</a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">REQUEST A LOCKSMITH NOW</a>",
           "title1": "INTRO WITH SUBSCRIBE FORM",
           "media1": {
             "iconFont": {
