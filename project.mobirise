@@ -264,10 +264,14 @@
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/apple-imac-ipad-workplace.jpg",
+              "src": "@PROJECT_PATH@/assets/images/emtekhadle-600x391.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title1": "Residential",
