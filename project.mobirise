@@ -163,7 +163,7 @@
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.2",
+            "overlayOpacity": "0.1",
             "overlayColor": "#000000",
             "inverse": false,
             "showTitle": false,
@@ -199,7 +199,7 @@
               }
             }
           },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">REQUEST A LOCKSMITH NOW</a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">REQUEST A LOCKSMITH NOW</a>",
           "title": "INTRO WITH FORM",
           "text": "<span style=\"font-style: normal;\">At Blue Key®, our services include all that a traditional locksmith has to offer, along with the commitment to provide you with today's most advanced products and security measures. </span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">MORE</a>",
