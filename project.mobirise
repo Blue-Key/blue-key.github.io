@@ -163,7 +163,7 @@
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.4",
+            "overlayOpacity": "0.3",
             "overlayColor": "#000000",
             "inverse": false,
             "showTitle": false,
@@ -199,75 +199,21 @@
               }
             }
           },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GET STARTED</a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">REQUEST A LOCKSMITH NOW</a>",
           "title": "INTRO WITH FORM",
-          "text": "Full-screen intro with background image and subscribe form on the left side. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extHeader9",
-          "_anchor": "extHeader9-1j",
-          "_params": {
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader9_bg.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/LXzWn5ht-cM?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+          "text": "<span style=\"font-style: normal;\">At Blue Key®, our services include all that a traditional locksmith has to offer, along with the commitment to provide you with today's most advanced products and security measures. </span>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-size": "25px"
             },
-            "bgVideoRadio": true,
-            "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#000000",
-            "inverse": false,
-            "showFormTitle": false,
-            "showFormSubtitle": false,
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true
-          },
-          "formTitle": "SUBSCRIBE",
-          "form": {
-            "action": "amalka0@yahoo.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Phone*"
-              },
-              "message": {
-                "title": "Message",
-                "visible": true,
-                "customTitle": "Message"
-              }
+            "SPAN": {
+              "color": "#232323"
             }
-          },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GET STARTED</a>",
-          "formSubtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-          "title": "INTRO WITH FORM",
-          "text": "Full-screen intro with image background and subscribe form on the right side. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          }
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -281,6 +227,12 @@
             },
             "H5": {
               "color": "#ffffff"
+            },
+            "P": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#232323"
             }
           },
           "_anchor": "extFeatures7-k",
@@ -318,7 +270,7 @@
               "active": true
             }
           },
-          "title1": "Bootstrap 4",
+          "title1": "Residential",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "media1_1": {
@@ -377,7 +329,7 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Responsive",
+          "title2": "Commercial",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "media2_1": {
@@ -432,7 +384,7 @@
               "active": true
             }
           },
-          "title3": "Web Fonts",
+          "title3": "Automotive",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "media3_1": {
@@ -832,7 +784,7 @@
             "showArrows": true
           },
           "_anchor": "extTestimonials5-10",
-          "title": "<span style=\"font-weight: normal;\">&nbsp;</span><i style=\"font-weight: normal;\">SMART </i><span style=\"font-weight: normal;\">PRODUCTS</span>",
+          "title": "<span style=\"font-weight: normal;\">&nbsp;</span><span style=\"font-weight: normal;\">SMART</span><i style=\"font-weight: normal;\"> </i><span style=\"font-weight: normal;\">PRODUCTS</span>",
           "subtitle": "Browse through our line of Bluetooth® enabled products"
         },
         {
