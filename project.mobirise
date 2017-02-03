@@ -211,7 +211,7 @@
               "font-size": "25px"
             },
             "SPAN": {
-              "color": "#232323"
+              "color": "#00a9ff"
             }
           }
         },
@@ -669,7 +669,7 @@
             ".mbr-section-title SPAN": {
               "font-family": "'Titillium Web', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
-              "color": "#000000",
+              "color": "#00a9ff",
               "font-size": "48px"
             },
             ".mbr-section-title": {
