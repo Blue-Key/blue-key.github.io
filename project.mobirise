@@ -217,8 +217,8 @@
           "_anchor": "extHeader4-1f",
           "_params": {
             "formBorder": false,
-            "formColor": "#7c706b",
-            "formStyle": "light",
+            "formColor": "#efefef",
+            "formStyle": "dark",
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader4_bg.jpg",
@@ -231,7 +231,7 @@
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.2",
+            "overlayOpacity": "0.4",
             "overlayColor": "#c1c1c1",
             "inverse": false,
             "showTitle": false,
@@ -267,7 +267,7 @@
               }
             }
           },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">REQUEST A LOCKSMITH NOW</a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">REQUEST A LOCKSMITH NOW</a>",
           "title1": "INTRO WITH SUBSCRIBE FORM",
           "media1": {
             "iconFont": {
