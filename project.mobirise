@@ -199,7 +199,7 @@
               }
             }
           },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">REQUEST A LOCKSMITH NOW</a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">REQUEST A LOCKSMITH NOW</a>",
           "title": "INTRO WITH FORM",
           "text": "<span style=\"font-style: normal;\">At Blue Key®, our services include all that </span><span style=\"font-style: normal;\">a</span>&nbsp;<span style=\"font-style: normal;\">traditional&nbsp;</span><span style=\"font-style: normal;\">locksmith has to offer, along with the </span><span style=\"font-style: normal;\">commitment</span>&nbsp;<span style=\"font-style: normal;\">to provide you with today's most </span><span style=\"font-style: normal;\">advanced</span>&nbsp;<span style=\"font-style: normal;\">products and security measures. </span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">MORE</a>",
@@ -212,6 +212,11 @@
             },
             "SPAN": {
               "color": "#000000"
+            },
+            ".btn": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-size": "15px"
             }
           }
         },

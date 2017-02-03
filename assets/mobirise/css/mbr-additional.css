@@ -8,6 +8,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -744,6 +745,10 @@ h6,
 }
 #extHeader8-1k SPAN {
   color: #000000;
+}
+#extHeader8-1k .btn {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 15px;
 }
 #extFeatures7-k .mbr-section-subtitle {
   color: #ffffff;
