@@ -174,7 +174,7 @@
           "form": {
             "action": "amalka0@yahoo.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks we will contact you shortly!"
             },
             "fields": {
               "name": {
