@@ -1,9 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-
 
 
 
@@ -737,12 +736,6 @@ h6,
 #menu-1a .link[aria-expanded="true"],
 #menu-1a .dropdown-item[aria-expanded="true"] {
   color: #c0a375 !important;
-}
-#extHeader4-1f P {
-  color: #000000;
-  text-align: center;
-  font-size: 25px;
-  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 #extFeatures7-k .mbr-section-subtitle {
   color: #ffffff;
