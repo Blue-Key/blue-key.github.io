@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 57,
+    "uniqCompNum": 58,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -164,7 +164,7 @@
             "bgVideoRadio": true,
             "overlay": true,
             "overlayOpacity": "0.2",
-            "overlayColor": "#7c706b",
+            "overlayColor": "#28324e",
             "inverse": false,
             "showTitle": false,
             "showText": true,
