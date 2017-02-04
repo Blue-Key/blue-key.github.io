@@ -207,7 +207,7 @@
             ".btn": {
               "font-family": "'Yanone Kaffeesatz', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
-              "font-size": "15px"
+              "font-size": "14px"
             },
             "P": {
               "text-align": "right",
@@ -217,7 +217,8 @@
               "font-size": "24px"
             },
             "SPAN": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "25px"
             }
           }
         },
