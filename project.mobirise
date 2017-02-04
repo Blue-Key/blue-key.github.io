@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 65,
+    "uniqCompNum": 68,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -148,12 +148,12 @@
           "_tags": [
             "Extension"
           ],
-          "_name": "extHeader9",
-          "_anchor": "extHeader9-1s",
+          "_name": "extHeader8",
+          "_anchor": "extHeader8-1v",
           "_params": {
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader9_bg.jpg",
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader8_bg.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -162,22 +162,19 @@
               "url": "https://www.youtube.com/embed/LXzWn5ht-cM?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
-            "overlay": false,
-            "overlayOpacity": "0.2",
-            "overlayColor": "#ffffff",
+            "overlay": true,
+            "overlayOpacity": "0.1",
+            "overlayColor": "#000000",
             "inverse": false,
-            "showFormTitle": false,
-            "showFormSubtitle": false,
             "showTitle": false,
             "showText": true,
             "showButtons": false,
             "showArrow": true
           },
-          "formTitle": "SUBSCRIBE",
           "form": {
             "action": "amalka0@yahoo.com",
             "alerts": {
-              "success": "Thanks we will contact you shortly!"
+              "success": "Thanks for filling out form!"
             },
             "fields": {
               "name": {
@@ -202,29 +199,22 @@
               }
             }
           },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">REQUEST A LOCKSMITH</a>",
-          "formSubtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">REQUEST A LOCKSMITH</a>",
           "title": "INTRO WITH FORM",
           "text": "<span style=\"font-style: normal;\">At Blue Key®, our services include all that a traditional locksmith has to offer, along with the commitment to provide you with today's most advanced products and security measures.</span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             ".btn": {
               "font-family": "'Yanone Kaffeesatz', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
-              "font-size": "14px"
-            },
-            "H3": {
-              "color": "#000000"
+              "font-size": "15px"
             },
             "P": {
+              "text-align": "right",
               "color": "#000000",
               "font-family": "'Yanone Kaffeesatz', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
-              "text-align": "left",
-              "font-size": "22px"
-            },
-            "SPAN": {
-              "font-size": "22px"
+              "font-size": "24px"
             }
           }
         },

@@ -738,21 +738,15 @@ h6,
 #menu-1a .dropdown-item[aria-expanded="true"] {
   color: #c0a375 !important;
 }
-#extHeader9-1s .btn {
+#extHeader8-1v .btn {
   font-family: 'Yanone Kaffeesatz', sans-serif;
-  font-size: 14px;
+  font-size: 15px;
 }
-#extHeader9-1s H3 {
-  color: #000000;
-}
-#extHeader9-1s P {
+#extHeader8-1v P {
+  text-align: right;
   color: #000000;
   font-family: 'Yanone Kaffeesatz', sans-serif;
-  text-align: left;
-  font-size: 22px;
-}
-#extHeader9-1s SPAN {
-  font-size: 22px;
+  font-size: 24px;
 }
 #extFeatures7-k .mbr-section-subtitle {
   color: #ffffff;
