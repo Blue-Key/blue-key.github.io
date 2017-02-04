@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 58,
+    "uniqCompNum": 65,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -148,12 +148,12 @@
           "_tags": [
             "Extension"
           ],
-          "_name": "extHeader8",
-          "_anchor": "extHeader8-1k",
+          "_name": "extHeader9",
+          "_anchor": "extHeader9-1s",
           "_params": {
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader8_bg.jpg",
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader9_bg.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -162,15 +162,18 @@
               "url": "https://www.youtube.com/embed/LXzWn5ht-cM?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": "0.2",
-            "overlayColor": "#28324e",
+            "overlayColor": "#ffffff",
             "inverse": false,
+            "showFormTitle": false,
+            "showFormSubtitle": false,
             "showTitle": false,
             "showText": true,
             "showButtons": false,
             "showArrow": true
           },
+          "formTitle": "SUBSCRIBE",
           "form": {
             "action": "amalka0@yahoo.com",
             "alerts": {
@@ -199,24 +202,29 @@
               }
             }
           },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">REQUEST A LOCKSMITH NOW</a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">REQUEST A LOCKSMITH</a>",
+          "formSubtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
           "title": "INTRO WITH FORM",
-          "text": "<span style=\"font-style: normal;\">At Blue Key®, our services include all that </span><span style=\"font-style: normal;\">a</span>&nbsp;<span style=\"font-style: normal;\">traditional&nbsp;</span><span style=\"font-style: normal;\">locksmith has to offer, along with the </span><span style=\"font-style: normal;\">commitment</span>&nbsp;<span style=\"font-style: normal;\">to provide you with today's most </span><span style=\"font-style: normal;\">advanced</span>&nbsp;<span style=\"font-style: normal;\">products and security measures. </span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">MORE</a>",
+          "text": "<span style=\"font-style: normal;\">At Blue Key®, our services include all that a traditional locksmith has to offer, along with the commitment to provide you with today's most advanced products and security measures.</span>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
-            "P": {
-              "text-align": "center",
-              "font-family": "'Yanone Kaffeesatz', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
-              "font-size": "25px"
-            },
-            "SPAN": {
-              "color": "#000000"
-            },
             ".btn": {
               "font-family": "'Yanone Kaffeesatz', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
-              "font-size": "15px"
+              "font-size": "14px"
+            },
+            "H3": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#000000",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "text-align": "left",
+              "font-size": "22px"
+            },
+            "SPAN": {
+              "font-size": "22px"
             }
           }
         },
