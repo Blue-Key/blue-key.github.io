@@ -1,8 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-
 
 
 
@@ -736,21 +735,13 @@ h6,
 }
 #menu-1a .link[aria-expanded="true"],
 #menu-1a .dropdown-item[aria-expanded="true"] {
-  color: #c0a375 !important;
+  color: #c0a375!important;
 }
-#extHeader8-1v .btn {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
-  font-size: 14px;
-}
-#extHeader8-1v P {
-  text-align: right;
-  color: #000000;
-  font-family: 'Yanone Kaffeesatz', sans-serif;
-  font-size: 24px;
-}
-#extHeader8-1v SPAN {
+#extHeader4-1w P {
   text-align: left;
-  font-size: 25px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  color: #000000;
 }
 #extFeatures7-k .mbr-section-subtitle {
   color: #ffffff;

@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 68,
+    "uniqCompNum": 69,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -103,7 +103,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "@primaryColor!important"
+              "color": "#c0a375!important"
             }
           },
           "_tags": [
@@ -148,27 +148,37 @@
           "_tags": [
             "Extension"
           ],
-          "_name": "extHeader8",
-          "_anchor": "extHeader8-1v",
+          "_name": "extHeader4",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "18px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "extHeader4-1w",
           "_params": {
+            "formBorder": false,
+            "formColor": "#02a7ff",
+            "formStyle": "light",
             "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader8_bg.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x3000.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/LXzWn5ht-cM?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": true,
-            "overlay": true,
-            "overlayOpacity": "0.2",
-            "overlayColor": "#28324e",
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.3,
+            "overlayColor": "@primaryColor",
             "inverse": false,
             "showTitle": false,
             "showText": true,
-            "showButtons": false,
+            "showIcons": false,
             "showArrow": true
           },
           "form": {
@@ -200,27 +210,33 @@
             }
           },
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">REQUEST A LOCKSMITH</a>",
-          "title": "INTRO WITH FORM",
-          "text": "<span style=\"font-style: normal;\">At Blue Key®, our services include all that a traditional locksmith has to offer, along with the commitment to provide you with today's most advanced products and security measures.</span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".btn": {
-              "font-family": "'Yanone Kaffeesatz', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
-              "font-size": "14px"
-            },
-            "P": {
-              "text-align": "right",
-              "color": "#000000",
-              "font-family": "'Yanone Kaffeesatz', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
-              "font-size": "24px"
-            },
-            "SPAN": {
-              "text-align": "left",
-              "font-size": "25px"
+          "title1": "INTRO WITH SUBSCRIBE FORM",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "layers",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
             }
-          }
+          },
+          "title2": "",
+          "text1": "",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "expand",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "title3": "",
+          "text2": "<b>At Blue Key®, our services include all that a traditional locksmith has to offer, along with the commitment to provide you with today's most advanced products and security measures.</b>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -330,7 +346,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x397.jpg",
+              "src": "@PROJECT_PATH@/assets/images/interchangeable-core-keymark-medeco-high-security-mortise-lock-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -389,13 +405,17 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/person-apple-laptop-notebook.jpg",
+              "src": "@PROJECT_PATH@/assets/images/safe-600x386.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title3": "Automotive",
+          "title3": "Safes",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "media3_1": {
