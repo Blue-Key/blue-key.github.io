@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 69,
+    "uniqCompNum": 71,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -165,7 +165,7 @@
             "formStyle": "light",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blue-key-intro-1.gif",
+            "bgImage": "@PROJECT_PATH@/assets/images/wwwcreator.me-uzowyv.gif.gif",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
