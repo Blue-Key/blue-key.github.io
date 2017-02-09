@@ -715,6 +715,12 @@
             },
             ".mbr-section-title I": {
               "color": "#00a9ff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#00a7ff",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-size": "46px"
             }
           },
           "_params": {
@@ -821,8 +827,8 @@
             "showArrows": true
           },
           "_anchor": "extTestimonials5-10",
-          "title": "<i><span style=\"font-weight: normal;\">SMART</span>&nbsp;</i>",
-          "subtitle": "Browse through our line of Bluetooth® enabled products"
+          "title": "",
+          "subtitle": "SMART"
         },
         {
           "alias": "mobirise3-blocks/components",
