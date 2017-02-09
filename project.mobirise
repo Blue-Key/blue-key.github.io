@@ -710,7 +710,8 @@
             },
             ".mbr-section-title": {
               "font-family": "'Yanone Kaffeesatz', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "color": "#00a7ff"
             },
             ".mbr-section-title I": {
               "color": "#00a9ff"
@@ -820,7 +821,7 @@
             "showArrows": true
           },
           "_anchor": "extTestimonials5-10",
-          "title": "<span style=\"font-weight: normal;\"><i>SMART</i></span>&nbsp; <br>PRODUCTS",
+          "title": "<span style=\"font-weight: normal;\"><i>SMART</i></span>&nbsp; PRODUCTS",
           "subtitle": "Browse through our line of Bluetooth® enabled products"
         },
         {
