@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 71,
+    "uniqCompNum": 75,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -165,16 +165,16 @@
             "formStyle": "light",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ezgif.com-reverse.gif",
+            "bgImage": "@PROJECT_PATH@/assets/images/locksmith-tujunga-1-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.3,
-            "overlayColor": "@primaryColor",
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#ffffff",
             "inverse": false,
             "showTitle": false,
             "showText": true,
@@ -244,28 +244,14 @@
             "Extension"
           ],
           "_name": "extFeatures7",
-          "_styles": {
-            ".mbr-section-subtitle": {
-              "color": "#ffffff"
-            },
-            "H5": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#232323"
-            },
-            ".mbr-section-title": {
-              "color": "#232323"
-            }
-          },
-          "_anchor": "extFeatures7-k",
+          "_anchor": "extFeatures7-21",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/jumbotron.jpg",
-            "bgColor": "#00a9ff",
+            "bgColor": "#00a7ff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -297,7 +283,7 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Residential",
+          "title1": "RESIDENTIAL",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "media1_1": {
@@ -346,7 +332,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/interchangeable-core-keymark-medeco-high-security-mortise-lock-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/comm-600x385.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -356,7 +342,7 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Commercial",
+          "title2": "COMMERCIAL",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "media2_1": {
@@ -415,7 +401,7 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Safes",
+          "title3": "SAFES",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "media3_1": {
@@ -626,6 +612,17 @@
               "color": "#000",
               "family": "socicon"
             }
+          },
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            },
+            "H5": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#232323"
+            }
           }
         },
         {
@@ -677,7 +674,7 @@
             }
           },
           "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs2-12\" aria-expanded=\"true\">Responsive</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs2-12\" aria-expanded=\"false\">Creative</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs2-12\" aria-expanded=\"false\">Animated</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs2-12\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs2-12\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs2-12\">Beautiful</a></li>",
-          "title1": "BOOST YOUR RANKING",
+          "title1": "GO KEYLESS",
           "text1": "Sites made with Mobirise are 100% mobile-friendly according the latest Google Test and Google loves those websites (officially)!",
           "title2": "BOOTSTRAP BUILDER",
           "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-",
