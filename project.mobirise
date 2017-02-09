@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 75,
+    "uniqCompNum": 76,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -144,6 +144,35 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-23",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/ezgif.com-reverse-1.gif",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "FULL SCREEN INTRO",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
@@ -173,7 +202,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.4",
+            "overlayOpacity": "0.3",
             "overlayColor": "#ffffff",
             "inverse": false,
             "showTitle": false,
@@ -244,6 +273,17 @@
             "Extension"
           ],
           "_name": "extFeatures7",
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            },
+            "H5": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "extFeatures7-21",
           "_params": {
             "paddingTop": 2,
@@ -611,17 +651,6 @@
               "size": 0,
               "color": "#000",
               "family": "socicon"
-            }
-          },
-          "_styles": {
-            ".mbr-section-subtitle": {
-              "color": "#ffffff"
-            },
-            "H5": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#232323"
             }
           }
         },
