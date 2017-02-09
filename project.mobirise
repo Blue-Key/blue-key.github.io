@@ -153,7 +153,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ezgif.com-reverse-1.gif",
+            "bgImage": "@PROJECT_PATH@/assets/images/ezgif.com-video-to-gif-4.gif",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
