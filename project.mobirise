@@ -173,7 +173,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.3",
+            "overlayOpacity": "0.5",
             "overlayColor": "#ffffff",
             "inverse": false,
             "showTitle": false,
