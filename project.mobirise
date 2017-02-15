@@ -165,7 +165,7 @@
             "formStyle": "light",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/fade.gif",
+            "bgImage": "@PROJECT_PATH@/assets/images/locksmith-tujunga-1-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
