@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 76,
+    "uniqCompNum": 79,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -165,7 +165,7 @@
             "formStyle": "light",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/locksmith-tujunga-1-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/fade.gif",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -226,13 +226,14 @@
           "text1": "",
           "media2": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "expand",
+              "linkInNewWindow": false,
+              "name": "arrow-next",
+              "family": "MobiriseIcons",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
+              "color": "#e6e6e6"
             }
           },
           "title3": "",
