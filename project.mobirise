@@ -22,7 +22,9 @@
     },
     "versionFirst": "3.11.1",
     "uniqCompNum": 93,
-    "versionPublish": "3.11.1"
+    "versionPublish": "3.11.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -149,6 +151,22 @@
             "Extension"
           ],
           "_name": "extSlider1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "20px"
+            },
+            "B": {
+              "font-size": "19px",
+              "color": "#000000"
+            },
+            "SPAN": {
+              "font-size": "20px",
+              "color": "#000000"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -209,23 +227,7 @@
             "showBullets": false
           },
           "_anchor": "extSlider1-29",
-          "articleLayout": false,
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "20px"
-            },
-            "B": {
-              "font-size": "19px",
-              "color": "#000000"
-            },
-            "SPAN": {
-              "font-size": "20px",
-              "color": "#000000"
-            }
-          }
+          "articleLayout": false
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -626,6 +628,11 @@
             "Extension"
           ],
           "_name": "extTabs2",
+          "_styles": {
+            "H3": {
+              "color": "#00a7ff"
+            }
+          },
           "_anchor": "extTabs2-12",
           "_params": {
             "tabs": "3",
@@ -677,12 +684,7 @@
           "title5": "Tab heading 5",
           "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
           "title6": "Tab heading 6",
-          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
-          "_styles": {
-            "H3": {
-              "color": "#00a7ff"
-            }
-          }
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio."
         },
         {
           "alias": "mobirise3-blocks/components",
