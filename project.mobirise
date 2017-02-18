@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 79,
+    "uniqCompNum": 93,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -49,13 +49,13 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<span style=\"font-size: 0.8125rem; line-height: 1.5;\">Copyright (c) 2016 Blue Key® Locksmith.</span><br><span style=\"font-size: 0.8125rem; line-height: 1.5;\">Addison, TX 75001<br></span><br>"
+          "text": "<span style=\"font-size: 0.8125rem; line-height: 1.5;\"><br></span><br>"
         },
         {
           "_styles": {
@@ -148,96 +148,83 @@
           "_tags": [
             "Extension"
           ],
-          "_name": "extHeader4",
+          "_name": "extSlider1",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": "5",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/cropped2-2000x1222.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "overlayColor": "#ffffff",
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "KENBURNS & PARALLAX SLIDER",
+                "showText": true,
+                "text": "<span style=\"font-style: normal;\"><b>Fullscreen slider with breath-taking pan <br>&amp; zoom also known as \"KenBurns\" effect <br>and parallax transition between slides.</b></span>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/cropped4-2000x1241.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "overlayColor": "#ffffff",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "VIDEO SLIDE WITH KENBURNS AND PARALLAX",
+                "showText": true,
+                "text": "<span style=\"font-style: normal;\"><b>Fullscreen video slide with outstanding \"KenBurns\" effect and parallax transition between slides. Slide with youtube video background and color overlay. Title and text are aligned to the left.</b></span>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/utility-final2-2000x1332.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.4",
+                "overlayColor": "#ffffff",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDE",
+                "showText": true,
+                "text": "<span style=\"font-style: normal;\"><b>Choose from the large selection of latest pre-made blocks - intros with forms, counters, countdowns, accordions, tabs, iconboxes, progress bars, testimonials sliders and more.</b></span>",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": false
+          },
+          "_anchor": "extSlider1-29",
+          "articleLayout": false,
           "_styles": {
             "P": {
-              "text-align": "left",
+              "color": "#000000",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "18px",
+              "font-size": "20px"
+            },
+            "B": {
+              "font-size": "19px",
               "color": "#000000"
-            }
-          },
-          "_anchor": "extHeader4-1w",
-          "_params": {
-            "formBorder": false,
-            "formColor": "#02a7ff",
-            "formStyle": "light",
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/locksmith-tujunga-1-2000x1333.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#ffffff",
-            "inverse": false,
-            "showTitle": false,
-            "showText": true,
-            "showIcons": false,
-            "showArrow": true
-          },
-          "form": {
-            "action": "amalka0@yahoo.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Phone*"
-              },
-              "message": {
-                "title": "Message",
-                "visible": true,
-                "customTitle": "Message"
-              }
+            "SPAN": {
+              "font-size": "20px"
             }
-          },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">REQUEST A LOCKSMITH</a>",
-          "title1": "INTRO WITH SUBSCRIBE FORM",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "layers",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
-            }
-          },
-          "title2": "",
-          "text1": "",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "arrow-next",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#e6e6e6"
-            }
-          },
-          "title3": "",
-          "text2": "<b>At Blue Key®, our services include all that a traditional locksmith has to offer, along with the commitment to provide you with today's most advanced products and security measures.</b>"
+          }
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -731,7 +718,7 @@
             "paddingBottom": "0",
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/schlage-sell-698x820.png",
@@ -761,11 +748,11 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/ringvid-660x820.png",
-                    "link": "https://mobirise.com",
+                    "link": "page1.html",
                     "active": true,
                     "alt": "",
                     "title": "",
-                    "linkInNewWindow": false
+                    "linkInNewWindow": true
                   }
                 }
               },
@@ -783,7 +770,7 @@
                 }
               },
               {
-                "active": false,
+                "active": true,
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/yale-629x820.png",
@@ -1017,6 +1004,94 @@
           "_anchor": "extTestimonials1-m",
           "title": "WHAT OUR CUSTOMERS SAY",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Web Page Maker Title",
+        "meta_descr": "Web Page Maker Description"
+      },
+      "components": [
+        {
+          "text2": "<label class=\"blackColor\" for=\"modal\">Watch Video</label>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader6",
+          "_anchor": "extHeader6-2i",
+          "_params": {
+            "imageSize": 90,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader6_bg.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.7,
+            "overlayColor": "#fff",
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "INTRO WITH IMAGE",
+          "text": "Full-screen intro with image at the bottom. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-primary\">DOWNLOAD FOR WIN</a> <a data-app-btn=\"true\" class=\"btn btn-info\">DOWNLOAD FOR MAC</a>",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ringvid-660x820.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<span style=\"font-size: 0.8125rem; line-height: 1.5;\"><br></span><br>"
         }
       ]
     }

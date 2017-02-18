@@ -738,11 +738,17 @@ h6,
 #menu-1a .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#extHeader4-1w P {
-  text-align: left;
-  font-family: 'Raleway', sans-serif;
-  font-size: 18px;
+#extSlider1-29 P {
   color: #000000;
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+}
+#extSlider1-29 B {
+  font-size: 19px;
+  color: #000000;
+}
+#extSlider1-29 SPAN {
+  font-size: 20px;
 }
 #extFeatures7-21 .mbr-section-subtitle {
   color: #ffffff;
@@ -783,4 +789,7 @@ h6,
 #extHeader3-14 .features-list i {
   color: #00a9ff !important;
   border-color: #00a9ff;
+}
+#footer1-2 P {
+  color: #ffffff;
 }
