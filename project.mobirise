@@ -191,7 +191,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/utility-final2-2000x1332.png",
+                "image": "@PROJECT_PATH@/assets/images/utility-final222-2000x1189.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
