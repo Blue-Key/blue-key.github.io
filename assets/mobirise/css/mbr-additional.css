@@ -1,8 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 
 
 
@@ -739,19 +738,6 @@ h6,
   color: #c0a375!important;
 }
 #extSlider1-2l P {
-  color: #000000;
-}
-#extSlider1-29 P {
-  color: #000000;
-  font-family: 'Raleway', sans-serif;
-  font-size: 20px;
-}
-#extSlider1-29 B {
-  font-size: 19px;
-  color: #000000;
-}
-#extSlider1-29 SPAN {
-  font-size: 20px;
   color: #000000;
 }
 #extFeatures7-21 .mbr-section-subtitle {
