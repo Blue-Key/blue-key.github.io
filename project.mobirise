@@ -169,7 +169,7 @@
                 "showTitle": false,
                 "title": "KENBURNS & PARALLAX SLIDER",
                 "showText": true,
-                "text": "Fullscreen slider with breath-taking pan &amp; zoom also known as \"KenBurns\" effect and parallax transition between slides.",
+                "text": "<span style=\"font-style: normal;\">Fullscreen slider with breath-taking pan &amp; zoom also known as </span><br><span style=\"font-style: normal;\">\"KenBurns\" </span><span style=\"font-style: normal;\">effect</span>&nbsp;<span style=\"font-style: normal;\">and parallax transition between slides.</span>",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
@@ -185,7 +185,7 @@
                 "showTitle": false,
                 "title": "VIDEO SLIDE WITH KENBURNS AND PARALLAX",
                 "showText": true,
-                "text": "Fullscreen video slide with outstanding \"KenBurns\" effect and parallax transition between slides. Slide with youtube video background and color overlay. Title and text are aligned to the left.",
+                "text": "<span style=\"font-style: normal;\">Fullscreen video slide with outstanding \"KenBurns\" effect and parallax transition between slides. Slide with youtube video background and color overlay. Title and text are aligned to the left.</span>",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -195,13 +195,13 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "overlayOpacity": "0.3",
+                "overlayOpacity": "0.4",
                 "overlayColor": "#ffffff",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "IMAGE SLIDE",
                 "showText": true,
-                "text": "<span style=\"font-style: normal;\"><b>Choose from the large selection of latest pre-made blocks - intros with forms, counters, countdowns, accordions, tabs, iconboxes, progress bars, testimonials sliders and more.</b></span>",
+                "text": "<span style=\"font-style: normal;\">Choose from the large selection of latest pre-made blocks - intros with forms, counters, countdowns, accordions, tabs, iconboxes, progress bars, testimonials sliders and more.</span>",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               }
@@ -215,13 +215,18 @@
           "_styles": {
             "P": {
               "color": "#000000",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-size": "20px"
             },
             "SPAN": {
               "font-size": "20px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "B": {
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
             }
           }
         },
