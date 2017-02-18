@@ -201,7 +201,7 @@
                 "showTitle": false,
                 "title": "IMAGE SLIDE",
                 "showText": true,
-                "text": "<span style=\"font-style: normal;\">Choose from the large selection of latest pre-made blocks - intros with forms, counters, countdowns, accordions, tabs, iconboxes, progress bars, testimonials sliders and more.</span>",
+                "text": "<span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">Choose from the large selection of latest pre-made blocks - intros with forms, counters, countdowns, accordions, tabs, iconboxes, progress bars, testimonials sliders and more.</span>",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               }
@@ -220,7 +220,7 @@
               "font-size": "20px"
             },
             "SPAN": {
-              "font-size": "21px",
+              "font-size": "20px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
