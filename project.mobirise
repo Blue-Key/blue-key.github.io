@@ -166,7 +166,7 @@
                 "showTitle": false,
                 "title": "KENBURNS & PARALLAX SLIDER",
                 "showText": true,
-                "text": "<span style=\"font-style: normal;\">At Blue Key®, our services include all that a traditional locksmith has <br>to offer, along with the commitment to provide you with today's most <br>advanced products and security measures.&nbsp;</span><br>",
+                "text": "<span style=\"font-style: normal;\">At Blue Key®, our services include all that a traditional locksmith has to offer, along with the commitment to provide you with today's most advanced products and security measures.&nbsp;</span><br>",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html#extTabs2-12\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"index.html#extHeader10-2m\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>"
               },
@@ -182,7 +182,7 @@
                 "showTitle": false,
                 "title": "VIDEO SLIDE WITH KENBURNS AND PARALLAX",
                 "showText": true,
-                "text": "<span style=\"font-style: normal;\">Your satisfaction is GUARANTEED - professional, licensed, and experienced locksmiths at </span><br><span style=\"font-style: normal;\">Blue Key</span>®<span style=\"font-style: normal;\">&nbsp;will provide you with friendly service and expert advice. &nbsp; &nbsp;</span>",
+                "text": "<span style=\"font-style: normal;\">Your satisfaction is GUARANTEED - professional, licensed, and experienced locksmiths at </span><span style=\"font-style: normal;\">Blue Key</span>®<span style=\"font-style: normal;\">&nbsp;will provide you with friendly service and expert advice. &nbsp; &nbsp;</span>",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html#extFeatures7-21\" data-toolbar=\"-mbrBtnMove\">SERVICES</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#extTestimonials1-m\" data-toolbar=\"-mbrBtnMove\">TESTIMONIALS</a>"
               },
@@ -1010,10 +1010,10 @@
             "overlayOpacity": 0,
             "overlayColor": "#000",
             "inverse": false,
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
-            "showArrow": true
+            "showArrow": false
           },
           "form": {
             "action": "amalka0@yahoo.com",
