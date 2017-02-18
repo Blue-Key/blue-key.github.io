@@ -227,7 +227,10 @@
               "color": "#232323"
             },
             "H4": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "24px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_anchor": "extFeatures7-21",
