@@ -1006,7 +1006,7 @@
           "_params": {
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader10.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/blur-2.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1014,9 +1014,9 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0,
-            "overlayColor": "#000",
-            "inverse": false,
+            "overlayOpacity": "0.1",
+            "overlayColor": "#000000",
+            "inverse": true,
             "showTitle": false,
             "showText": true,
             "showButtons": false,
@@ -1052,36 +1052,16 @@
           },
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">REQUEST A LOCKSMITH</a>",
           "title": "INTRO WITH FORM",
-          "text": "Full screen intro with background image and color overlay and a form on the right side. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
+          "text": "Full screen intro with background image and color overlay and a form on the right side. Lorem ipsum dolor sit amet,&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
           "_styles": {
             "P": {
-              "color": "#000000"
-            },
-            "SPAN": {
-              "color": "#000000"
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#ffffff",
+              "font-size": "25px"
             }
-          },
-          "_anchor": "footer1-2",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright © 2017 Blue Key® Locksmith, All rights reserved.<br><span style=\"font-size: 0.8125rem; line-height: 1.5;\">Addison, TX</span><br>"
+          }
         }
       ]
     },
@@ -1161,18 +1141,18 @@
           },
           "_anchor": "footer1-2",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr.jpg",
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": false,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<span style=\"font-size: 0.8125rem; background-color: rgb(50, 50, 50); line-height: 1.5;\"><br></span><span style=\"font-size: 0.8125rem; background-color: rgb(50, 50, 50); line-height: 1.5;\">Copyright © 2017 </span><span style=\"font-size: 0.8125rem; background-color: rgb(50, 50, 50); line-height: 1.5;\">Blue Key</span><span style=\"font-size: 0.8125rem; background-color: rgb(50, 50, 50); line-height: 1.5;\">® Locksmith, All rights reserved.</span><br><span style=\"font-size: 0.8125rem; line-height: 1.5;\">Addison, TX<br></span><br>"
+          "text": "Copyright © 2017 Blue Key® Locksmith, All rights reserved.<br><span style=\"font-size: 0.8125rem; line-height: 1.5;\">Addison, TX</span><br>"
         }
       ]
     }

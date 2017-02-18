@@ -16,6 +16,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -799,11 +800,10 @@ h6,
   color: #00a9ff !important;
   border-color: #00a9ff;
 }
-#footer1-2 P {
-  color: #000000;
-}
-#footer1-2 SPAN {
-  color: #000000;
+#extHeader10-2m P {
+  font-family: 'Oswald', sans-serif;
+  color: #ffffff;
+  font-size: 25px;
 }
 #footer1-2 P {
   color: #ffffff;
