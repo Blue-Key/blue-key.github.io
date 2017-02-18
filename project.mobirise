@@ -231,6 +231,10 @@
               "font-size": "24px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_anchor": "extFeatures7-21",
@@ -259,7 +263,7 @@
             "showIcons": false
           },
           "title": "SERVICES",
-          "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
+          "subtitle": "<span style=\"font-style: normal;\">This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.</span>",
           "media1": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/emtekhadle.jpg",
@@ -1066,7 +1070,7 @@
           },
           "_anchor": "footer1-2",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -1077,7 +1081,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright © 2017 <span style=\"font-size: 0.8125rem; line-height: 1.5;\">Blue Key</span>® Locksmith, All rights reserved.<br><span style=\"font-size: 0.8125rem; line-height: 1.5;\">Addison, TX<br></span><br>"
+          "text": "Copyright © 2017 Blue Key® Locksmith, All rights reserved.<br><span style=\"font-size: 0.8125rem; line-height: 1.5;\">Addison, TX</span><br>"
         }
       ]
     },
@@ -1157,7 +1161,7 @@
           },
           "_anchor": "footer1-2",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -1168,7 +1172,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<span style=\"font-size: 0.8125rem; line-height: 1.5;\"><br></span><br>"
+          "text": "<span style=\"font-size: 0.8125rem; background-color: rgb(50, 50, 50); line-height: 1.5;\"><br></span><span style=\"font-size: 0.8125rem; background-color: rgb(50, 50, 50); line-height: 1.5;\">Copyright © 2017 </span><span style=\"font-size: 0.8125rem; background-color: rgb(50, 50, 50); line-height: 1.5;\">Blue Key</span><span style=\"font-size: 0.8125rem; background-color: rgb(50, 50, 50); line-height: 1.5;\">® Locksmith, All rights reserved.</span><br><span style=\"font-size: 0.8125rem; line-height: 1.5;\">Addison, TX<br></span><br>"
         }
       ]
     }

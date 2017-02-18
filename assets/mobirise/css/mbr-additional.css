@@ -15,6 +15,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -765,6 +766,9 @@ h6,
 #extFeatures7-21 H4 {
   color: #000000;
   font-size: 24px;
+  font-family: 'Oswald', sans-serif;
+}
+#extFeatures7-21 .mbr-section-title {
   font-family: 'Oswald', sans-serif;
 }
 #extTabs2-12 H3 {
