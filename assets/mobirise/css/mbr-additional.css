@@ -679,9 +679,6 @@ h6,
 .theme-border {
   border: 1px solid #c0a375;
 }
-#footer1-2 P {
-  color: #ffffff;
-}
 #menu-1a .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -796,5 +793,14 @@ h6,
   border-color: #00a9ff;
 }
 #footer1-2 P {
+  color: #000000;
+}
+#footer1-2 SPAN {
+  color: #000000;
+}
+#footer1-2 P {
   color: #ffffff;
+}
+#footer1-2 SPAN {
+  color: #000000;
 }

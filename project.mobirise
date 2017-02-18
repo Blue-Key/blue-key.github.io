@@ -21,10 +21,12 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 94,
+    "uniqCompNum": 95,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "true"
   },
   "pages": {
     "index.html": {
@@ -37,28 +39,6 @@
         "html_before": ""
       },
       "components": [
-        {
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "footer1-2",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "<span style=\"font-size: 0.8125rem; line-height: 1.5;\"><br></span><br>"
-        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -151,6 +131,23 @@
             "Extension"
           ],
           "_name": "extSlider1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-size": "20px"
+            },
+            "SPAN": {
+              "font-size": "20px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "B": {
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -169,9 +166,9 @@
                 "showTitle": false,
                 "title": "KENBURNS & PARALLAX SLIDER",
                 "showText": true,
-                "text": "<span style=\"font-style: normal;\">Fullscreen slider with breath-taking pan &amp; zoom also known as </span><br><span style=\"font-style: normal;\">\"KenBurns\" </span><span style=\"font-style: normal;\">effect</span>&nbsp;<span style=\"font-style: normal;\">and parallax transition between slides.</span>",
+                "text": "<span style=\"font-style: normal;\">At Blue Key®, our services include all that a traditional locksmith has <br>to offer, along with the commitment to provide you with today's most <br>advanced products and security measures.&nbsp;</span><br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html#extTabs2-12\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"index.html#extHeader10-2m\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>"
               },
               {
                 "active": false,
@@ -185,9 +182,9 @@
                 "showTitle": false,
                 "title": "VIDEO SLIDE WITH KENBURNS AND PARALLAX",
                 "showText": true,
-                "text": "<span style=\"font-style: normal;\">Fullscreen video slide with outstanding \"KenBurns\" effect and parallax transition between slides. Slide with youtube video background and color overlay. Title and text are aligned to the left.</span>",
+                "text": "<span style=\"font-style: normal;\">Your satisfaction is GUARANTEED - professional, licensed, and experienced locksmiths at </span><br><span style=\"font-style: normal;\">Blue Key</span>®<span style=\"font-style: normal;\">&nbsp;will provide you with friendly service and expert advice. &nbsp; &nbsp;</span>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html#extFeatures7-21\" data-toolbar=\"-mbrBtnMove\">SERVICES</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#extTestimonials1-m\" data-toolbar=\"-mbrBtnMove\">TESTIMONIALS</a>"
               },
               {
                 "active": true,
@@ -201,9 +198,9 @@
                 "showTitle": false,
                 "title": "IMAGE SLIDE",
                 "showText": true,
-                "text": "<span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">Choose from the large selection of latest pre-made blocks - intros with forms, counters, countdowns, accordions, tabs, iconboxes, progress bars, testimonials sliders and more.</span>",
+                "text": "<span style=\"font-style: normal;\">We are local and reliable - covering the Dallas/Fort Worth area since 2004, we provide fast service and honest business. Our guys will arrive in a Blue Key</span>®<span style=\"font-style: normal;\">&nbsp;van and a Blue Key</span>®<span style=\"font-style: normal;\">&nbsp;uniform.</span>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://www.thumbtack.com/profile/services/eIfxUdtU2s0sjA/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">THUMBTACK PROFILE</a> "
               }
             ],
             "fullScreen": true,
@@ -211,24 +208,7 @@
             "showBullets": false
           },
           "_anchor": "extSlider1-2l",
-          "articleLayout": false,
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "font-size": "20px"
-            },
-            "SPAN": {
-              "font-size": "20px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            "B": {
-              "font-family": "'Source Sans Pro', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
-            }
-          }
+          "articleLayout": false
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -279,7 +259,7 @@
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/emtekhadle-600x391.jpg",
+              "src": "@PROJECT_PATH@/assets/images/emtekhadle.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -338,7 +318,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/comm-600x385.png",
+              "src": "@PROJECT_PATH@/assets/images/comm.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -397,7 +377,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/safe-600x386.jpg",
+              "src": "@PROJECT_PATH@/assets/images/safe.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -790,7 +770,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/bal-598x820.png",
+                    "src": "@PROJECT_PATH@/assets/images/bal.png",
                     "link": "https://mobirise.com",
                     "active": true,
                     "alt": "",
@@ -843,7 +823,7 @@
             "iconsColor": "#00a9ff",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/baldwin-evolved-handleset-v2-2000x2000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/baldwin-evolved-handleset-v2.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1008,6 +988,93 @@
           "_anchor": "extTestimonials1-m",
           "title": "WHAT OUR CUSTOMERS SAY",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader10",
+          "_anchor": "extHeader10-2m",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader10.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "form": {
+            "action": "amalka0@yahoo.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "title": "Message",
+                "visible": true,
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">REQUEST A LOCKSMITH</a>",
+          "title": "INTRO WITH FORM",
+          "text": "Full screen intro with background image and color overlay and a form on the right side. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "SPAN": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright © 2017 <span style=\"font-size: 0.8125rem; line-height: 1.5;\">Blue Key</span>® Locksmith, All rights reserved.<br><span style=\"font-size: 0.8125rem; line-height: 1.5;\">Addison, TX<br></span><br>"
         }
       ]
     },
@@ -1080,6 +1147,9 @@
           "_styles": {
             "P": {
               "color": "#ffffff"
+            },
+            "SPAN": {
+              "color": "#000000"
             }
           },
           "_anchor": "footer1-2",
