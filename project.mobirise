@@ -155,7 +155,7 @@
             "timeout": "6",
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/cropped2-2000x1222.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -171,7 +171,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html#extTabs2-12\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"index.html#extHeader10-2m\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/cropped4-2000x1241.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1008,6 +1008,9 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "color": "#ffffff",
               "font-size": "25px"
+            },
+            "SPAN": {
+              "font-size": "23px"
             }
           },
           "_anchor": "extHeader10-2m",
@@ -1025,7 +1028,7 @@
             "overlayOpacity": "0.1",
             "overlayColor": "#000000",
             "inverse": true,
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "showArrow": false
@@ -1059,7 +1062,7 @@
             }
           },
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">REQUEST A LOCKSMITH</a>",
-          "title": "INTRO WITH FORM",
+          "title": "CONTACT US",
           "text": "<span style=\"font-style: normal;\">You can schedule an appointment here and we will contact you shortly. Thank you.&nbsp;</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>"
         }
