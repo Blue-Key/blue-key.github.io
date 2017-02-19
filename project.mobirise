@@ -112,7 +112,7 @@
               "src": "@PROJECT_PATH@/assets/images/bluekeymobi-516x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
@@ -122,7 +122,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">(214) 489-2096</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"2144892096\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">(214) 489-2096</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -160,7 +160,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "overlayOpacity": "0.3",
+                "overlayOpacity": "0.4",
                 "overlayColor": "#ffffff",
                 "contentAlign": "left",
                 "showTitle": false,
@@ -171,34 +171,34 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html#extTabs2-12\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"index.html#extHeader10-2m\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>"
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/cropped4-2000x1241.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayOpacity": "0.3",
-                "overlayColor": "#ffffff",
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "VIDEO SLIDE WITH KENBURNS AND PARALLAX",
-                "showText": true,
-                "text": "<span style=\"font-style: normal;\">Your satisfaction is GUARANTEED - professional, licensed, and experienced locksmiths at </span><span style=\"font-style: normal;\">Blue Key</span>®<span style=\"font-style: normal;\">&nbsp;will provide you with friendly service and expert advice. &nbsp; &nbsp;</span>",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html#extFeatures7-21\" data-toolbar=\"-mbrBtnMove\">SERVICES</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#extTestimonials1-m\" data-toolbar=\"-mbrBtnMove\">TESTIMONIALS</a>"
-              },
-              {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/utility-final222-2000x1189.png",
+                "image": "@PROJECT_PATH@/assets/images/cropped4-2000x1241.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "overlayOpacity": "0.4",
                 "overlayColor": "#ffffff",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "VIDEO SLIDE WITH KENBURNS AND PARALLAX",
+                "showText": true,
+                "text": "<span style=\"font-style: normal;\">Your satisfaction is GUARANTEED - professional, licensed, and experienced locksmiths at </span><span style=\"font-style: normal;\">Blue Key®&nbsp;will provide you with friendly service and expert advice. &nbsp; &nbsp;</span>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html#extFeatures7-21\" data-toolbar=\"-mbrBtnMove\">SERVICES</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"index.html#extTestimonials1-m\" data-toolbar=\"-mbrBtnMove\">TESTIMONIALS</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/utility-final222-2000x1189.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.5",
+                "overlayColor": "#ffffff",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "IMAGE SLIDE",
                 "showText": true,
-                "text": "<span style=\"font-style: normal;\">We are local and reliable - covering the Dallas/Fort Worth area since 2004, we provide fast service and honest business. Our guys will arrive in a Blue Key</span>®<span style=\"font-style: normal;\">&nbsp;van and a Blue Key</span>®<span style=\"font-style: normal;\">&nbsp;uniform.</span>",
+                "text": "<span style=\"font-style: normal;\">We are local and reliable - covering the Dallas/Fort Worth area since 2004, we provide fast service and quality work. You'll know it's us when you see the Blue Key®&nbsp;van and Blue Key®&nbsp;uniform.</span>",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://www.thumbtack.com/profile/services/eIfxUdtU2s0sjA/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">THUMBTACK PROFILE</a> "
               }
@@ -240,7 +240,7 @@
           "_anchor": "extFeatures7-21",
           "_params": {
             "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/jumbotron.jpg",
@@ -263,14 +263,14 @@
             "showIcons": false
           },
           "title": "SERVICES",
-          "subtitle": "<span style=\"font-style: normal;\">This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.</span>",
+          "subtitle": "<span style=\"font-style: normal;\">Whether you’re locked out of your car, in need of a home security system, or want to find the best ways to protect your business, Blue Key® is only a phone call away.</span>",
           "media1": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/emtekhadle.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "index.html#extHeader10-2m",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -278,7 +278,7 @@
           },
           "title1": "RESIDENTIAL",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "From single-family home installation to condominium and subdivision HOA contracts, Blue Key® is your solution for residential hardware installation and repair.<br>",
           "media1_1": {
             "iconFont": {
               "active": true,
@@ -329,7 +329,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "index.html#extHeader10-2m",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -337,7 +337,7 @@
           },
           "title2": "COMMERCIAL",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "We know how hard you’ve worked to grow your business. Let us give you peace of mind. From standard deadbolts to high security - we do it all!",
           "media2_1": {
             "iconFont": {
               "active": true,
@@ -388,7 +388,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "index.html#extHeader10-2m",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -396,7 +396,7 @@
           },
           "title3": "SAFES",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "Whether you need safe repair, combo change, or keypad installation,&nbsp;Blue Key® has safe specialists ready to take on the challenge.",
           "media3_1": {
             "iconFont": {
               "active": true,
