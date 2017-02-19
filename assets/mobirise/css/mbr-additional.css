@@ -808,6 +808,9 @@ h6,
 #extHeader10-2m SPAN {
   font-size: 23px;
 }
+#extHeader10-2m .btn {
+  font-size: 12px;
+}
 #footer1-2 P {
   color: #ffffff;
 }
