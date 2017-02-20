@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 95,
+    "uniqCompNum": 96,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -258,7 +258,7 @@
             "columns": 3,
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": true,
+            "showSubtitles": false,
             "ShowTexts": true,
             "showIcons": false
           },
@@ -277,7 +277,7 @@
             }
           },
           "title1": "RESIDENTIAL",
-          "subtitle1": "Bootstrap 4 has been noted",
+          "subtitle1": "jgjhgjhgjhgjhg",
           "caption1": "From single-family home installation to condominium and subdivision HOA contracts, Blue Key® is your solution for residential hardware installation and repair.<br>",
           "media1_1": {
             "iconFont": {
@@ -616,15 +616,10 @@
             "Extension"
           ],
           "_name": "extTabs2",
-          "_styles": {
-            "H3": {
-              "color": "#00a7ff"
-            }
-          },
-          "_anchor": "extTabs2-12",
+          "_anchor": "extTabs2-2n",
           "_params": {
             "tabs": "3",
-            "imageSize": 50,
+            "imageSize": "52",
             "paddingTop": 3,
             "paddingBottom": 3,
             "parallax": true,
@@ -660,19 +655,24 @@
               "size": 250
             }
           },
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-black active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs2-12\" aria-expanded=\"true\">Responsive</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-black\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs2-12\" aria-expanded=\"false\">Creative</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-black\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs2-12\" aria-expanded=\"false\">Animated</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs2-12\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs2-12\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs2-12\">Beautiful</a></li>",
-          "title1": "GO KEYLESS",
-          "text1": "Sites made with Mobirise are 100% mobile-friendly according the latest Google Test and Google loves those websites (officially)!",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-black active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs2-2n\" aria-expanded=\"true\">Security</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><br><a class=\"nav-link text-black\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs2-2n\" aria-expanded=\"false\">Convenience</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-black\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs2-2n\" aria-expanded=\"false\">Save</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs2-2n\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs2-2n\">Beautiful</a></li>",
+          "title1": "Tighter Security &amp; Access Control",
+          "text1": "Keys can be lost, stolen or copied, whereas pass codes are secure if well managed and changed periodically.",
           "title2": "BOOTSTRAP BUILDER",
-          "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-",
-          "title3": "TRENDY WEBSITE BLOCKS",
-          "text3": "Choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image&nbsp;",
-          "title4": "Tab heading 4",
-          "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
+          "title3": "No Fumbling for Keys",
+          "text3": "No more lost keys or having to hand them out. Have the ability to grant limited access at specified times.",
+          "title4": "Save Time &amp; Money",
+          "text4": "No more rekeys, simply change the code. No more getting locked out, as long as you know the code you can get in.",
           "title5": "Tab heading 5",
           "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
           "title6": "Tab heading 6",
-          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio."
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "_styles": {
+            "H3": {
+              "color": "#00a7ff"
+            }
+          }
         },
         {
           "alias": "mobirise3-blocks/components",
