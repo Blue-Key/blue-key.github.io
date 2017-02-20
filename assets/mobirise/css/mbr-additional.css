@@ -800,16 +800,12 @@ h6,
   color: #00a9ff !important;
   border-color: #00a9ff;
 }
-#extHeader10-2m P {
-  font-family: 'Oswald', sans-serif;
-  color: #ffffff;
-  font-size: 25px;
-}
-#extHeader10-2m SPAN {
+#extHeader10-2o P {
   font-size: 23px;
+  font-family: 'Oswald', sans-serif;
 }
-#extHeader10-2m .btn {
-  font-size: 11px;
+#extHeader10-2o .btn {
+  font-size: 12px;
 }
 #footer1-2 P {
   color: #ffffff;

@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 96,
+    "uniqCompNum": 97,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -1002,21 +1002,7 @@
             "Extension"
           ],
           "_name": "extHeader10",
-          "_styles": {
-            "P": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "color": "#ffffff",
-              "font-size": "25px"
-            },
-            "SPAN": {
-              "font-size": "23px"
-            },
-            ".btn": {
-              "font-size": "11px"
-            }
-          },
-          "_anchor": "extHeader10-2m",
+          "_anchor": "extHeader10-2o",
           "_params": {
             "parallax": false,
             "bgImageRadio": true,
@@ -1029,12 +1015,12 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.1",
-            "overlayColor": "#000000",
+            "overlayColor": "#000",
             "inverse": true,
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": false
+            "showArrow": true
           },
           "form": {
             "action": "amalka0@yahoo.com",
@@ -1066,8 +1052,18 @@
           },
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">REQUEST A LOCKSMITH</a>",
           "title": "CONTACT US",
-          "text": "<span style=\"font-style: normal;\">You can schedule an appointment here and we will contact you shortly. Thank you.&nbsp;</span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>"
+          "text": "You can schedule an appointment here and we will contact you shortly. Thank you.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
+          "_styles": {
+            "P": {
+              "font-size": "23px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".btn": {
+              "font-size": "12px"
+            }
+          }
         }
       ]
     },
