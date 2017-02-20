@@ -917,7 +917,7 @@
             "slides": [
               {
                 "active": true,
-                "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
+                "text": "<p>“Wonderful service and I was very happy with professional job. They arrived on time and completed the job promptly at great price. Will definitely use again!!”</p>",
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/2011-1.svg",
@@ -931,12 +931,12 @@
                     "linkInNewWindow": true
                   }
                 },
-                "authorName": "John Smith",
-                "authorBio": "Developer"
+                "authorName": "Kerri R.",
+                "authorBio": "Dallas, TX"
               },
               {
                 "active": false,
-                "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
+                "text": "<p>“Blue Key® Locksmith provided great service at a reasonable price. I was able to get them to come out within the hour to re-key a property. Will definitely be using them again on other houses I manage.”</p>",
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/spotlight-160x160.png",
@@ -950,12 +950,12 @@
                     "linkInNewWindow": true
                   }
                 },
-                "authorName": "Abanoub S.",
-                "authorBio": "User"
+                "authorName": "Edwin D.",
+                "authorBio": "Frisco, TX"
               },
               {
                 "active": false,
-                "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+                "text": "<p>“Quick and easy! He was here in a flash and got the job done before I even knew it. He has my full endorsement.”</p>",
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/thumbtack-icon-160x155.png",
@@ -969,8 +969,8 @@
                     "linkInNewWindow": true
                   }
                 },
-                "authorName": "Suffian A.",
-                "authorBio": "User"
+                "authorName": "Reginald D.",
+                "authorBio": "Mckinney, TX"
               }
             ],
             "showImages": true,
@@ -994,7 +994,7 @@
           },
           "_anchor": "extTestimonials1-m",
           "title": "WHAT OUR CUSTOMERS SAY",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+          "subtitle": "Our hard work and dedication has earned much of our customers' praise"
         },
         {
           "alias": "mobirise3-blocks/components",
