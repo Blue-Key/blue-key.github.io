@@ -168,7 +168,7 @@
                 "showText": true,
                 "text": "<span style=\"font-style: normal;\">At Blue Key®, our services include all that a traditional locksmith has to offer, along with the commitment to provide you with today's most advanced products and security measures.&nbsp;</span><br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html#extTabs2-12\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"index.html#extHeader10-2m\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html#extTabs2-2n\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"index.html#extHeader10-2o\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>"
               },
               {
                 "active": false,
@@ -235,6 +235,11 @@
             ".mbr-section-title": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-subtitle SPAN": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "18px"
             }
           },
           "_anchor": "extFeatures7-21",
@@ -616,6 +621,11 @@
             "Extension"
           ],
           "_name": "extTabs2",
+          "_styles": {
+            "H3": {
+              "color": "#00a7ff"
+            }
+          },
           "_anchor": "extTabs2-2n",
           "_params": {
             "tabs": "3",
@@ -667,12 +677,7 @@
           "title5": "Tab heading 5",
           "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
           "title6": "Tab heading 6",
-          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
-          "_styles": {
-            "H3": {
-              "color": "#00a7ff"
-            }
-          }
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio."
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -807,7 +812,7 @@
           },
           "_anchor": "extTestimonials5-10",
           "title": "",
-          "subtitle": "SMART &nbsp;<span style=\"font-style: normal;\">PRODUCTS</span>"
+          "subtitle": "GO KEYLESS"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -847,7 +852,7 @@
             "showTitles": true,
             "showArrow": false
           },
-          "title": "INTRO WITH ICONS",
+          "title": "HIGH SECURITY",
           "text": "Full-screen intro with background image, color overlay and icons. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media1": {
@@ -1002,6 +1007,16 @@
             "Extension"
           ],
           "_name": "extHeader10",
+          "_styles": {
+            "P": {
+              "font-size": "23px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
           "_anchor": "extHeader10-2o",
           "_params": {
             "parallax": false,
@@ -1053,17 +1068,7 @@
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">REQUEST A LOCKSMITH</a>",
           "title": "CONTACT US",
           "text": "You can schedule an appointment here and we will contact you shortly. Thank you.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
-          "_styles": {
-            "P": {
-              "font-size": "23px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".btn": {
-              "font-size": "12px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>"
         }
       ]
     },
