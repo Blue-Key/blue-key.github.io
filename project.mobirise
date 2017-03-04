@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 97,
+    "uniqCompNum": 100,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -200,7 +200,7 @@
                 "showText": true,
                 "text": "<span style=\"font-style: normal;\">We are local and reliable - covering the Dallas/Fort Worth area since 2004, we provide fast service and quality work. You'll know it's us when you see the Blue Key®&nbsp;van and Blue Key®&nbsp;uniform.</span>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://www.thumbtack.com/profile/services/eIfxUdtU2s0sjA/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">THUMBTACK PROFILE</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://www.thumbtack.com/tx/dallas/locksmiths/24-hour-locksmith-services\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">THUMBTACK PROFILE</a> "
               }
             ],
             "fullScreen": true,
@@ -665,7 +665,7 @@
               "size": 250
             }
           },
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-black active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs2-2n\" aria-expanded=\"true\">Security</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><br><a class=\"nav-link text-black\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs2-2n\" aria-expanded=\"false\">Convenience</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-black\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs2-2n\" aria-expanded=\"false\">Save</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs2-2n\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs2-2n\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-black\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs2-2n\" aria-expanded=\"false\">Security</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><br><a class=\"nav-link text-black\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs2-2n\" aria-expanded=\"false\">Convenience</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-black active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs2-2n\" aria-expanded=\"true\">Savings</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs2-2n\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs2-2n\">Beautiful</a></li>",
           "title1": "Tighter Security &amp; Access Control",
           "text1": "Keys can be lost, stolen or copied, whereas pass codes are secure if well managed and changed periodically.",
           "title2": "BOOTSTRAP BUILDER",
@@ -673,7 +673,7 @@
           "title3": "No Fumbling for Keys",
           "text3": "No more lost keys or having to hand them out. Have the ability to grant limited access at specified times.",
           "title4": "Save Time &amp; Money",
-          "text4": "No more rekeys, simply change the code. No more getting locked out, as long as you know the code you can get in.",
+          "text4": "Getting locked out is a thing of the past, as long as you know the code you can get in.",
           "title5": "Tab heading 5",
           "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
           "title6": "Tab heading 6",
@@ -705,6 +705,10 @@
               "font-family": "'Yanone Kaffeesatz', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
               "font-size": "46px"
+            },
+            ".mbr-section-subtitle SPAN": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_params": {
@@ -812,7 +816,7 @@
           },
           "_anchor": "extTestimonials5-10",
           "title": "",
-          "subtitle": "GO KEYLESS"
+          "subtitle": "<span style=\"font-style: normal;\"><b>GO KEYLESS</b></span>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -859,20 +863,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
-              "name": "mail",
-              "family": "socicon",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#27aae0"
-            }
-          },
-          "title1": "Multi Layouts",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "lock",
+              "name": "touch",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
@@ -880,13 +871,26 @@
               "color": "#27aae0"
             }
           },
-          "title2": "Creative Idea",
+          "title1": "High Security",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "to-local-drive",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#27aae0"
+            }
+          },
+          "title2": "Decorative",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
-              "name": "tools-2",
-              "family": "et-line",
+              "name": "wifi",
+              "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
@@ -898,8 +902,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
-              "name": "compass",
-              "family": "et-line",
+              "name": "clock",
+              "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
@@ -1035,7 +1039,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": true
+            "showArrow": false
           },
           "form": {
             "action": "amalka0@yahoo.com",
@@ -1067,7 +1071,7 @@
           },
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">REQUEST A LOCKSMITH</a>",
           "title": "CONTACT US",
-          "text": "You can schedule an appointment here and we will contact you shortly. Thank you.",
+          "text": "<span style=\"font-style: normal;\">You can schedule an appointment here and we will contact you shortly. Thank you.</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>"
         }
       ]
