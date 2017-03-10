@@ -926,7 +926,14 @@
           },
           "_anchor": "extTestimonials5-2s",
           "title": "KEY CONTROL",
-          "subtitle": "We service high security and restricted keyways set for limited use and a higher degree of key control."
+          "subtitle": "We service high security and restricted keyways set for limited use and a higher degree of key control",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#232323",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          }
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -1019,7 +1026,14 @@
           },
           "_anchor": "extTestimonials1-m",
           "title": "WHAT OUR CUSTOMERS SAY",
-          "subtitle": "Our hard work and dedication has earned much of our customers' praise"
+          "subtitle": "Our hard work and dedication has earned much of our customers' praise",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#232323",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          }
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -1038,6 +1052,11 @@
             },
             "SPAN": {
               "text-align": "center"
+            },
+            "H3": {
+              "color": "#232323",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_anchor": "extHeader10-2o",
@@ -1052,7 +1071,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.1",
+            "overlayOpacity": "0",
             "overlayColor": "#000",
             "inverse": true,
             "showTitle": true,

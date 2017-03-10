@@ -19,6 +19,9 @@
 
 
 
+
+
+
 body,
 input,
 textarea,
@@ -801,6 +804,14 @@ h6,
 #extTestimonials5-10 .mbr-section-subtitle SPAN {
   font-family: 'Oswald', sans-serif;
 }
+#extTestimonials5-2s .mbr-section-title {
+  color: #232323;
+  font-family: 'Oswald', sans-serif;
+}
+#extTestimonials1-m .mbr-section-title {
+  color: #232323;
+  font-family: 'Oswald', sans-serif;
+}
 #extHeader10-2o P {
   font-size: 23px;
   font-family: 'Oswald', sans-serif;
@@ -810,6 +821,10 @@ h6,
 }
 #extHeader10-2o SPAN {
   text-align: center;
+}
+#extHeader10-2o H3 {
+  color: #232323;
+  font-family: 'Oswald', sans-serif;
 }
 #social-buttons1-2x .mbr-section-title DIV {
   font-size: 16px;
