@@ -801,20 +801,23 @@ h6,
 #extTestimonials5-10 .mbr-section-subtitle SPAN {
   font-family: 'Oswald', sans-serif;
 }
-#extHeader3-14 .etl-icon {
-  color: #00a9ff !important;
-  border-color: #00a9ff;
-}
-#extHeader3-14 .features-list i {
-  color: #00a9ff !important;
-  border-color: #00a9ff;
-}
 #extHeader10-2o P {
   font-size: 23px;
   font-family: 'Oswald', sans-serif;
 }
 #extHeader10-2o .btn {
   font-size: 12px;
+}
+#extHeader10-2o SPAN {
+  text-align: center;
+}
+#social-buttons1-2x .mbr-section-title DIV {
+  font-size: 16px;
+  color: #232323;
+}
+#social-buttons1-2x .mbr-section-title {
+  font-size: 16px;
+  color: #232323;
 }
 #footer1-2 P {
   color: #ffffff;
