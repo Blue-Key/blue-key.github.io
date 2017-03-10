@@ -944,8 +944,8 @@
           "_params": {
             "autoplay": true,
             "timeout": 5,
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "slides": [
               {
                 "active": true,
